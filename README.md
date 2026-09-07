@@ -1,10 +1,10 @@
 <div align="center">
 
-<h3>de>trabelsimedaziz@github ~ $ ./contributions.sh</code></h3>
+<h3>Med Aziz Trabelsi</h3>
 <img src="./contrib-heatmap.svg" width="860" />
 <br><br>
 
-<h3>de>trabelsimedaziz@github ~ $ whoami</code></h3>
+<h3>About me</h3>
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
