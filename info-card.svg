@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="354" viewBox="0 0 490 354">
+<rect width="100%" height="100%" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="6"/>
+<rect width="100%" height="34" fill="#161b22" rx="6"/>
+ircle cx="18" cy="17.0" r="6" fill="#ff5f56"/>
+ircle cx="38" cy="17.0" r="6" fill="#ffbd2e"/>
+ircle cx="58" cy="17.0" r="6" fill="#27c93f"/>
+<text x="245.0" y="21.0" text-anchor="middle" font-family="monospace" font-size="12" fill="#c9d1d9">neofetch</text>
+<style>.label { font-family: monospace; font-size: 13px; fill: #58a6ff; font-weight: bold; } .value { font-family: monospace; font-size: 13px; fill: #c9d1d9; }</style>
+<text x="20" y="56" opacity="0"><tspan class="label">Now:</tspan> <tspan class="value">IT Student &amp; developer</tspan><animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="76" opacity="0"><tspan class="label">Prev:</tspan> <tspan class="value">Front-end &amp; full-stack projects</tspan><animate attributeName="opacity" from="0" to="1" begin="0.06s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="96" opacity="0"><tspan class="label">Stack:</tspan> <tspan class="value">JavaScript, PHP, Java, C#, SQL, HTML/CSS, Python,</tspan><animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="116" opacity="0"><tspan class="value">Unity, Git, Automation, Docker, API handling, API</tspan><animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="136" opacity="0"><tspan class="value">Integration and more</tspan><animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="156" opacity="0"><tspan class="label">Highlights:</tspan> <tspan class="value"></tspan><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="176" opacity="0"><tspan class="value">- Automated scripts for emails scanning and customized</tspan><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="196" opacity="0"><tspan class="value">  orders</tspan><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="216" opacity="0"><tspan class="value">- Built event-booking system (PHP + MySQL)</tspan><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="236" opacity="0"><tspan class="value">- Library management app (JavaFX + MySQL)</tspan><animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="256" opacity="0"><tspan class="value">- Prompt engineering and AI integration</tspan><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="276" opacity="0"><tspan class="value">- Website development and maintenance</tspan><animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="296" opacity="0"><tspan class="value">- Terminal-based tools and scripts</tspan><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="316" opacity="0"><tspan class="value">- Node.js/Express web apps</tspan><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.25s" fill="freeze"/></text>
+<text x="20" y="336" opacity="0"><tspan class="value">- Unity 2D games</tspan><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.25s" fill="freeze"/></text>
+</svg>
