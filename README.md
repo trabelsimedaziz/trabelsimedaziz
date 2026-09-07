@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>de>trabelsimedaziz@github ~ $ ./contributions.sh</code></h3>
+<h3>trabelsi med aziz</h3>
 <img src="./contrib-heatmap.svg" width="860" />
 <br><br>
 
