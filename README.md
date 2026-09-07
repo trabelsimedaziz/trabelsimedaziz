@@ -4,7 +4,7 @@
 <img src="./contrib-heatmap.svg" width="860" />
 <br><br>
 
-<h3>Med Aziz Trabelsi</h3>
+<h3>About me</h3>
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
