@@ -2,18 +2,18 @@
 <rect width="100%" height="100%" fill="#0d1117"/>
 <style>@keyframes reveal { from { opacity: 0; transform: translate(-6px,-6px); } to { opacity: 1; transform: translate(0,0); } } .box { animation: reveal 0.3s ease-out forwards; opacity: 0; } text { font-family: monospace; fill: #8b949e; }</style>
 <text x="30" y="18" font-size="10">Sep</text>
-<text x="72" y="18" font-size="10">Oct</text>
-<text x="128" y="18" font-size="10">Nov</text>
-<text x="198" y="18" font-size="10">Dec</text>
-<text x="254" y="18" font-size="10">Jan</text>
-<text x="310" y="18" font-size="10">Feb</text>
-<text x="366" y="18" font-size="10">Mar</text>
-<text x="436" y="18" font-size="10">Apr</text>
-<text x="492" y="18" font-size="10">May</text>
-<text x="562" y="18" font-size="10">Jun</text>
-<text x="618" y="18" font-size="10">Jul</text>
-<text x="674" y="18" font-size="10">Aug</text>
-<text x="744" y="18" font-size="10">Sep</text>
+<text x="58" y="18" font-size="10">Oct</text>
+<text x="114" y="18" font-size="10">Nov</text>
+<text x="184" y="18" font-size="10">Dec</text>
+<text x="240" y="18" font-size="10">Jan</text>
+<text x="296" y="18" font-size="10">Feb</text>
+<text x="352" y="18" font-size="10">Mar</text>
+<text x="422" y="18" font-size="10">Apr</text>
+<text x="478" y="18" font-size="10">May</text>
+<text x="548" y="18" font-size="10">Jun</text>
+<text x="604" y="18" font-size="10">Jul</text>
+<text x="660" y="18" font-size="10">Aug</text>
+<text x="730" y="18" font-size="10">Sep</text>
 <text x="0" y="55" font-size="10">Mon</text>
 <text x="0" y="83" font-size="10">Wed</text>
 <text x="0" y="111" font-size="10">Fri</text>
@@ -166,15 +166,15 @@
 <rect class="box" x="310" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.46s"/>
 <rect class="box" x="324" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.47s"/>
 <rect class="box" x="324" y="44" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.48s"/>
-<rect class="box" x="324" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.49s"/>
-<rect class="box" x="324" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.5s"/>
+<rect class="box" x="324" y="58" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1.49s"/>
+<rect class="box" x="324" y="72" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:1.5s"/>
 <rect class="box" x="324" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.51s"/>
 <rect class="box" x="324" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.52s"/>
 <rect class="box" x="324" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.53s"/>
 <rect class="box" x="338" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.54s"/>
 <rect class="box" x="338" y="44" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.55s"/>
-<rect class="box" x="338" y="58" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1.56s"/>
-<rect class="box" x="338" y="72" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:1.57s"/>
+<rect class="box" x="338" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.56s"/>
+<rect class="box" x="338" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.57s"/>
 <rect class="box" x="338" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.58s"/>
 <rect class="box" x="338" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.59s"/>
 <rect class="box" x="338" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1.6s"/>
@@ -246,16 +246,16 @@
 <rect class="box" x="478" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.26s"/>
 <rect class="box" x="478" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.27s"/>
 <rect class="box" x="478" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.28s"/>
-<rect class="box" x="478" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.29s"/>
-<rect class="box" x="478" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.3s"/>
-<rect class="box" x="492" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.31s"/>
+<rect class="box" x="478" y="100" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:2.29s"/>
+<rect class="box" x="478" y="114" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:2.3s"/>
+<rect class="box" x="492" y="30" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:2.31s"/>
 <rect class="box" x="492" y="44" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.32s"/>
 <rect class="box" x="492" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.33s"/>
 <rect class="box" x="492" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.34s"/>
 <rect class="box" x="492" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.35s"/>
-<rect class="box" x="492" y="100" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:2.36s"/>
-<rect class="box" x="492" y="114" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:2.37s"/>
-<rect class="box" x="506" y="30" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:2.38s"/>
+<rect class="box" x="492" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.36s"/>
+<rect class="box" x="492" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.37s"/>
+<rect class="box" x="506" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.38s"/>
 <rect class="box" x="506" y="44" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.39s"/>
 <rect class="box" x="506" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.4s"/>
 <rect class="box" x="506" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.41s"/>
@@ -367,26 +367,26 @@
 <rect class="box" x="716" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.47s"/>
 <rect class="box" x="716" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.48s"/>
 <rect class="box" x="716" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.49s"/>
-<rect class="box" x="730" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.5s"/>
-<rect class="box" x="730" y="44" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.51s"/>
-<rect class="box" x="730" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.52s"/>
-<rect class="box" x="730" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.53s"/>
-<rect class="box" x="730" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.54s"/>
-<rect class="box" x="730" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.55s"/>
-<rect class="box" x="730" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.56s"/>
+<rect class="box" x="730" y="30" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.5s"/>
+<rect class="box" x="730" y="44" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:3.51s"/>
+<rect class="box" x="730" y="58" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.52s"/>
+<rect class="box" x="730" y="72" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.53s"/>
+<rect class="box" x="730" y="86" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.54s"/>
+<rect class="box" x="730" y="100" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.55s"/>
+<rect class="box" x="730" y="114" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.56s"/>
 <rect class="box" x="744" y="30" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.57s"/>
-<rect class="box" x="744" y="44" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:3.58s"/>
+<rect class="box" x="744" y="44" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.58s"/>
 <rect class="box" x="744" y="58" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.59s"/>
 <rect class="box" x="744" y="72" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.6s"/>
 <rect class="box" x="744" y="86" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.61s"/>
 <rect class="box" x="744" y="100" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.62s"/>
 <rect class="box" x="744" y="114" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.63s"/>
-<rect class="box" x="758" y="30" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.64s"/>
-<rect class="box" x="758" y="44" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.65s"/>
-<rect class="box" x="758" y="58" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.66s"/>
-<rect class="box" x="758" y="72" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.67s"/>
-<rect class="box" x="758" y="86" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.68s"/>
-<rect class="box" x="758" y="100" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.69s"/>
+<rect class="box" x="758" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.64s"/>
+<rect class="box" x="758" y="44" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.65s"/>
+<rect class="box" x="758" y="58" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.66s"/>
+<rect class="box" x="758" y="72" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.67s"/>
+<rect class="box" x="758" y="86" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.68s"/>
+<rect class="box" x="758" y="100" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.69s"/>
 <rect class="box" x="758" y="114" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.7s"/>
 <text x="30" y="156" font-size="10">Less</text>
 <rect x="65" y="148" width="11" height="11" rx="2" fill="#161b22"/>
@@ -396,5 +396,5 @@
 <rect x="121" y="148" width="11" height="11" rx="2" fill="#39d353"/>
 <rect x="135" y="148" width="11" height="11" rx="2" fill="#69f0a0"/>
 <text x="154" y="156" font-size="10">More</text>
-<text x="772" y="156" font-size="10" text-anchor="end">55 contributions in the last year</text>
+<text x="772" y="156" font-size="10" text-anchor="end">56 contributions in the last year</text>
 </svg>
